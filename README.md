@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there I'm wldn1👋
+🌱 I’m currently learning opensource software
 <!--
 **wldn1/wldn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
